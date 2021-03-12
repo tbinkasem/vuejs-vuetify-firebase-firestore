@@ -1,4 +1,4 @@
-# todo-ninja
+# Volunteera-App
 
 ## Project setup
 ```
